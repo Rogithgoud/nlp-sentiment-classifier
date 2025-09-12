@@ -1,4 +1,3 @@
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -35,7 +34,7 @@ var/
 *.log
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # Pytest cache
 .pytest_cache/
@@ -46,6 +45,5 @@ var/
 # SQLite databases
 *.sqlite3
 
+# Data files
 data/Reviews.csv
-data/
-
